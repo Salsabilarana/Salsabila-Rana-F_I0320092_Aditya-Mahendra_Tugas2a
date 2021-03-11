@@ -3,10 +3,11 @@ print("BIODATA")
 Nama_lengkap = "Salsabila Rana Fadhilah"
 Nama_panggilan = "Rana"
 TTL = "Samarinda, 12 April 2002"
-umur = "18 tahun"
+umur = 18
 Alamat = "Jl. HJ. Ismail RT.04, Kec. Muara Badak, Kab. KUKAR, Prov. kaltim"
 Makanan_Fav = "Tempe goreng tepung"
 Minuman_Fav = "greentea latte"
+warna_fav = "hitam dan kuning"
 Hobi = "main voli, jalan-jalan, gofood"
 Tinggi = 168
 BB = 54.5
@@ -22,6 +23,7 @@ print("Umur saya sekarang ", umur)
 print("saya tinggal di ", Alamat)
 print("Makanan favorit saya ", Makanan_Fav)
 print("sedangkan minuman favoritnya adalah ", Minuman_Fav)
+print("warna kesukaan saya ", warna_fav)
 print("Hobi saya adalah ", Hobi)
 print("saya memiliki badan yang cukup tinggi yaitu, ", Tinggi)
 print("berat saya ", BB)
