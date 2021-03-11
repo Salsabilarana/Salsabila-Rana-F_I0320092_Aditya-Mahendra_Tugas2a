@@ -14,7 +14,7 @@ Kuliah = "Universitas Sebelas Maret"
 Fakuktas ="Teknik"
 Jurusan = "Teknik Industri"
 
-
+print("hallo gaes")
 print("Nama saya ", Nama_lengkap)
 print("biasa dipanggil ", Nama_panggilan)
 print("saya lahir di ", TTL)
